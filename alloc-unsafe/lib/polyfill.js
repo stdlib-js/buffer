@@ -21,7 +21,7 @@
 // MODULES //
 
 var isNonNegativeInteger = require( '@stdlib/assert/is-nonnegative-integer' );
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 
 
 // MAIN //

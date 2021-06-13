@@ -18,9 +18,9 @@
 
 'use strict';
 
-var array2buffer = require( '@stdlib/buffer/from-array' );
+var array2buffer = require( './../../from-array' );
 var parseJSON = require( '@stdlib/utils/parse-json' );
-var toJSON = require( '@stdlib/buffer/to-json' );
+var toJSON = require( './../../to-json' );
 var reviver = require( './../lib' );
 
 var buf = array2buffer( [ 1, 2 ] );

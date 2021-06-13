@@ -22,7 +22,7 @@
 
 var isArrayBuffer = require( '@stdlib/assert/is-arraybuffer' );
 var isNonNegativeInteger = require( '@stdlib/assert/is-nonnegative-integer' ).isPrimitive;
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 var version = require( './node_version.js' );
 
 

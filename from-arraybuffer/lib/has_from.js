@@ -21,7 +21,7 @@
 // MODULES //
 
 var isFunction = require( '@stdlib/assert/is-function' );
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 var version = require( './node_version.js' );
 
 

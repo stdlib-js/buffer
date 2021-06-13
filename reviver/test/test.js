@@ -22,9 +22,9 @@
 
 var tape = require( 'tape' );
 var parseJSON = require( '@stdlib/utils/parse-json' );
-var toJSON = require( '@stdlib/buffer/to-json' );
+var toJSON = require( './../../to-json' );
 var copy = require( '@stdlib/utils/copy' );
-var array2buffer = require( '@stdlib/buffer/from-array' );
+var array2buffer = require( './../../from-array' );
 var isBuffer = require( '@stdlib/assert/is-buffer' );
 var reviver = require( './../lib' );
 

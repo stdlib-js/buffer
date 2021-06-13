@@ -21,7 +21,7 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var array2buffer = require( '@stdlib/buffer/from-array' );
+var array2buffer = require( './../../from-array' );
 var isPlainObject = require( '@stdlib/assert/is-plain-object' );
 var toJSON = require( './../lib' );
 

@@ -21,7 +21,7 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 var Uint8Array = require( '@stdlib/array/uint8' );
 var isBuffer = require( '@stdlib/assert/is-buffer' );
 var isFunction = require( '@stdlib/assert/is-function' );

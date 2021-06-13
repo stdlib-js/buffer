@@ -23,7 +23,7 @@
 var bench = require( '@stdlib/bench' );
 var pow = require( '@stdlib/math/base/special/pow' );
 var isBuffer = require( '@stdlib/assert/is-buffer' );
-var allocUnsafe = require( '@stdlib/buffer/alloc-unsafe' );
+var allocUnsafe = require( './../../alloc-unsafe' );
 var pkg = require( './../package.json' ).name;
 var copyBuffer = require( './../lib' );
 

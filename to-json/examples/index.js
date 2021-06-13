@@ -18,7 +18,7 @@
 
 'use strict';
 
-var allocUnsafe = require( '@stdlib/buffer/alloc-unsafe' );
+var allocUnsafe = require( './../../alloc-unsafe' );
 var randint = require( '@stdlib/random/base/discrete-uniform' );
 var toJSON = require( './../lib' );
 

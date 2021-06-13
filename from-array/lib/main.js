@@ -21,7 +21,7 @@
 // MODULES //
 
 var isCollection = require( '@stdlib/assert/is-collection' );
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 
 
 // MAIN //

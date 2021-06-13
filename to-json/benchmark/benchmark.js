@@ -21,7 +21,7 @@
 // MODULES //
 
 var bench = require( '@stdlib/bench' );
-var allocUnsafe = require( '@stdlib/buffer/alloc-unsafe' );
+var allocUnsafe = require( './../../alloc-unsafe' );
 var pkg = require( './../package.json' ).name;
 var toJSON = require( './../lib' );
 

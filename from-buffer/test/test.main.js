@@ -21,10 +21,10 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 var Uint8Array = require( '@stdlib/array/uint8' );
 var isFunction = require( '@stdlib/assert/is-function' );
-var allocUnsafe = require( '@stdlib/buffer/alloc-unsafe' );
+var allocUnsafe = require( './../../alloc-unsafe' );
 var copyBuffer = require( './../lib/main.js' );
 
 

@@ -23,7 +23,7 @@
 var tape = require( 'tape' );
 var isBuffer = require( '@stdlib/assert/is-buffer' );
 var isFunction = require( '@stdlib/assert/is-function' );
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 var allocUnsafe = require( './../lib/main.js' );
 
 

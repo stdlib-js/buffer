@@ -21,14 +21,14 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import allocUnsafe = require( '@stdlib/buffer/alloc-unsafe' );
-import Buffer = require( '@stdlib/buffer/ctor' );
-import array2buffer = require( '@stdlib/buffer/from-array' );
-import arraybuffer2buffer = require( '@stdlib/buffer/from-arraybuffer' );
-import copyBuffer = require( '@stdlib/buffer/from-buffer' );
-import string2buffer = require( '@stdlib/buffer/from-string' );
-import reviver = require( '@stdlib/buffer/reviver' );
-import toJSON = require( '@stdlib/buffer/to-json' );
+import allocUnsafe = require( './../../alloc-unsafe' );
+import Buffer = require( './../../ctor' );
+import array2buffer = require( './../../from-array' );
+import arraybuffer2buffer = require( './../../from-arraybuffer' );
+import copyBuffer = require( './../../from-buffer' );
+import string2buffer = require( './../../from-string' );
+import reviver = require( './../../reviver' );
+import toJSON = require( './../../to-json' );
 
 /**
 * Interface describing the `buffer` namespace.

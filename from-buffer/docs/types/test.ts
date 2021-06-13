@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 
-import fromArray = require( '@stdlib/buffer/from-array' );
+import fromArray = require( './../../../from-array' );
 import fromBuffer = require( './index' );
 
 // TESTS //

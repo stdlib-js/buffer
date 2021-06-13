@@ -18,7 +18,7 @@
 
 'use strict';
 
-var allocUnsafe = require( '@stdlib/buffer/alloc-unsafe' );
+var allocUnsafe = require( './../../alloc-unsafe' );
 var copyBuffer = require( './../lib' );
 
 var bool;

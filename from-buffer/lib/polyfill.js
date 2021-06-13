@@ -21,7 +21,7 @@
 // MODULES //
 
 var isBuffer = require( '@stdlib/assert/is-buffer' );
-var Buffer = require( '@stdlib/buffer/ctor' );
+var Buffer = require( './../../ctor' );
 
 
 // MAIN //

@@ -21,7 +21,7 @@
 // MODULES //
 
 var isArray = require( '@stdlib/assert/is-array' );
-var array2buffer = require( '@stdlib/buffer/from-array' );
+var array2buffer = require( './../../from-array' );
 
 
 // MAIN //

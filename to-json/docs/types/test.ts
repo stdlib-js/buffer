@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 
-import array2buffer = require( '@stdlib/buffer/from-array' );
+import array2buffer = require( './../../../from-array' );
 import toJSON = require( './index' );
 
 
