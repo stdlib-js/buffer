@@ -158,13 +158,40 @@ for ( i = 0; i < view.length; i++ ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/buffer/ctor`][@stdlib/buffer/ctor]: buffer.
+-   [`@stdlib/buffer/from-array`][@stdlib/buffer/from-array]: allocate a buffer using an octet array.
+-   [`@stdlib/buffer/from-buffer`][@stdlib/buffer/from-buffer]: copy buffer data to a new Buffer instance.
+-   [`@stdlib/buffer/from-string`][@stdlib/buffer/from-string]: allocate a buffer containing a provided string.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
 
+[@stdlib/array/buffer]: https://github.com/stdlib-js/array-buffer
+
+<!-- <related-links> -->
+
 [@stdlib/buffer/ctor]: https://github.com/stdlib-js/buffer/tree/main/ctor
 
-[@stdlib/array/buffer]: https://github.com/stdlib-js/array-buffer
+[@stdlib/buffer/from-array]: https://github.com/stdlib-js/buffer/tree/main/from-array
+
+[@stdlib/buffer/from-buffer]: https://github.com/stdlib-js/buffer/tree/main/from-buffer
+
+[@stdlib/buffer/from-string]: https://github.com/stdlib-js/buffer/tree/main/from-string
+
+<!-- </related-links> -->
 
 </section>
 

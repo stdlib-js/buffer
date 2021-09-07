@@ -106,13 +106,31 @@ console.log( out );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/buffer/to-json`][@stdlib/buffer/to-json]: return a JSON representation of a Buffer.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
 
+[@stdlib/buffer/ctor]: https://github.com/stdlib-js/buffer/tree/main/ctor
+
+<!-- <related-links> -->
+
 [@stdlib/buffer/to-json]: https://github.com/stdlib-js/buffer/tree/main/to-json
 
-[@stdlib/buffer/ctor]: https://github.com/stdlib-js/buffer/tree/main/ctor
+<!-- </related-links> -->
 
 </section>
 
