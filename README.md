@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer@v0.3.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Buffer, allocUnsafe, array2buffer, arraybuffer2buffer, buffer2json, copyBuffer, reviveBuffer, string2buffer } from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer@esm/index.mjs';
+import { Buffer, allocUnsafe, array2buffer, arraybuffer2buffer, buffer2json, copyBuffer, reviveBuffer, string2buffer } from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer@v0.3.2-esm/index.mjs';
 ```
 
 #### ns
@@ -97,7 +97,7 @@ The namespace contains the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/buffer@v0.3.2-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
