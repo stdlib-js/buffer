@@ -10,6 +10,30 @@
 
 ### Packages
 
+<section class="package" id="buffer-from-arraybuffer-unreleased">
+
+#### [@stdlib/buffer/from-arraybuffer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/buffer/from-arraybuffer)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#5771](https://github.com/stdlib-js/stdlib/issues/5771)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="buffer-from-string-unreleased">
 
 #### [@stdlib/buffer/from-string](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/buffer/from-string)
@@ -42,9 +66,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#5697](https://github.com/stdlib-js/stdlib/issues/5697)
+[#5697](https://github.com/stdlib-js/stdlib/issues/5697), [#5771](https://github.com/stdlib-js/stdlib/issues/5771)
 
 </section>
 
@@ -54,9 +78,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Abdelrahman Samir
+-   Jalaj Kumar
 
 </section>
 
@@ -68,6 +93,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`77c2bfd`](https://github.com/stdlib-js/stdlib/commit/77c2bfdf819a4efe39648942bbecc931b846453d) - **chore:** fix JavaScript lint errors [(#5775)](https://github.com/stdlib-js/stdlib/pull/5775) _(by Jalaj Kumar)_
 -   [`8af1610`](https://github.com/stdlib-js/stdlib/commit/8af16104077b365569644d710180017cc34bc584) - **chore(buffer):** remove unused `eslint-disable` directives in `polyfill.js` [(#5762)](https://github.com/stdlib-js/stdlib/pull/5762) _(by Abdelrahman Samir)_
 
 </details>
