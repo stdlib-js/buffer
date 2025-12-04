@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-12-04)
 
 <section class="issues">
 
@@ -24,6 +24,10 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`546d714`](https://github.com/stdlib-js/stdlib/commit/546d71415bfaa6861cb8757741e1c465c7759590) - **docs:** fix example code and return annotations in TSDoc declarations _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`46ff8ea`](https://github.com/stdlib-js/stdlib/commit/46ff8ea7761ae438c4718681c5890f146fb0985e) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`77c2bfd`](https://github.com/stdlib-js/stdlib/commit/77c2bfdf819a4efe39648942bbecc931b846453d) - **chore:** fix JavaScript lint errors [(#5775)](https://github.com/stdlib-js/stdlib/pull/5775) _(by Jalaj Kumar)_
 -   [`8af1610`](https://github.com/stdlib-js/stdlib/commit/8af16104077b365569644d710180017cc34bc584) - **chore(buffer):** remove unused `eslint-disable` directives in `polyfill.js` [(#5762)](https://github.com/stdlib-js/stdlib/pull/5762) _(by Abdelrahman Samir)_
