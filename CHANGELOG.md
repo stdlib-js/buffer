@@ -24,6 +24,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a83b4cc`](https://github.com/stdlib-js/stdlib/commit/a83b4cc2ff80364c1b0c6e4a312ea4fb4ed4e325) - **bench:** refactor to use string interpolation in `buffer/ctor` [(#9552)](https://github.com/stdlib-js/stdlib/pull/9552) _(by Vishal Gaikwad, stdlib-bot)_
 -   [`374b631`](https://github.com/stdlib-js/stdlib/commit/374b6311d0d676952c1f8341f4d6fffb951fce28) - **bench:** refactor to use string interpolation in `buffer/alloc-unsafe` [(#9531)](https://github.com/stdlib-js/stdlib/pull/9531) _(by Shubham)_
 -   [`546d714`](https://github.com/stdlib-js/stdlib/commit/546d71415bfaa6861cb8757741e1c465c7759590) - **docs:** fix example code and return annotations in TSDoc declarations _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -43,12 +44,13 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Abdelrahman Samir
 -   Jalaj Kumar
 -   Philipp Burckhardt
 -   Shubham
+-   Vishal Gaikwad
 
 </section>
 
