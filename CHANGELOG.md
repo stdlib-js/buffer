@@ -24,6 +24,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`f4eb003`](https://github.com/stdlib-js/stdlib/commit/f4eb003101dc763c66363a1d52c013a3b3b7c3c7) - **bench:** refactor to use string interpolation in `buffer/from-array` [(#9553)](https://github.com/stdlib-js/stdlib/pull/9553) _(by Vishal Gaikwad)_
 -   [`a83b4cc`](https://github.com/stdlib-js/stdlib/commit/a83b4cc2ff80364c1b0c6e4a312ea4fb4ed4e325) - **bench:** refactor to use string interpolation in `buffer/ctor` [(#9552)](https://github.com/stdlib-js/stdlib/pull/9552) _(by Vishal Gaikwad, stdlib-bot)_
 -   [`374b631`](https://github.com/stdlib-js/stdlib/commit/374b6311d0d676952c1f8341f4d6fffb951fce28) - **bench:** refactor to use string interpolation in `buffer/alloc-unsafe` [(#9531)](https://github.com/stdlib-js/stdlib/pull/9531) _(by Shubham)_
 -   [`546d714`](https://github.com/stdlib-js/stdlib/commit/546d71415bfaa6861cb8757741e1c465c7759590) - **docs:** fix example code and return annotations in TSDoc declarations _(by Philipp Burckhardt)_
