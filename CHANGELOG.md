@@ -24,6 +24,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`9f70c31`](https://github.com/stdlib-js/stdlib/commit/9f70c314356bb4f683d135d4af7ce28ec6b8ceb6) - **bench:** refactor to use string interpolation in `buffer/to-json` [(#9580)](https://github.com/stdlib-js/stdlib/pull/9580) _(by Vishal Gaikwad)_
 -   [`3b0e321`](https://github.com/stdlib-js/stdlib/commit/3b0e321d7fe014b56def3bf6a769ac2760ac67eb) - **bench:** refactor to use string interpolation in `buffer/from-buffer` [(#9578)](https://github.com/stdlib-js/stdlib/pull/9578) _(by Vishal Gaikwad)_
 -   [`01e7efb`](https://github.com/stdlib-js/stdlib/commit/01e7efb049f30e3903d29a05b145966a9b75d909) - **bench:** refactor to use string interpolation in `buffer/from-string` [(#9579)](https://github.com/stdlib-js/stdlib/pull/9579) _(by Vishal Gaikwad)_
 -   [`803dfe6`](https://github.com/stdlib-js/stdlib/commit/803dfe64bff71c2fe1206eda1d807d6759d0a751) - **bench:** refactor to use string interpolation in `buffer/from-arraybuffer` [(#9554)](https://github.com/stdlib-js/stdlib/pull/9554) _(by Vishal Gaikwad)_
