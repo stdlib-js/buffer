@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-05)
+## Unreleased (2026-01-07)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`01e7efb`](https://github.com/stdlib-js/stdlib/commit/01e7efb049f30e3903d29a05b145966a9b75d909) - **bench:** refactor to use string interpolation in `buffer/from-string` [(#9579)](https://github.com/stdlib-js/stdlib/pull/9579) _(by Vishal Gaikwad)_
 -   [`803dfe6`](https://github.com/stdlib-js/stdlib/commit/803dfe64bff71c2fe1206eda1d807d6759d0a751) - **bench:** refactor to use string interpolation in `buffer/from-arraybuffer` [(#9554)](https://github.com/stdlib-js/stdlib/pull/9554) _(by Vishal Gaikwad)_
 -   [`f4eb003`](https://github.com/stdlib-js/stdlib/commit/f4eb003101dc763c66363a1d52c013a3b3b7c3c7) - **bench:** refactor to use string interpolation in `buffer/from-array` [(#9553)](https://github.com/stdlib-js/stdlib/pull/9553) _(by Vishal Gaikwad)_
 -   [`a83b4cc`](https://github.com/stdlib-js/stdlib/commit/a83b4cc2ff80364c1b0c6e4a312ea4fb4ed4e325) - **bench:** refactor to use string interpolation in `buffer/ctor` [(#9552)](https://github.com/stdlib-js/stdlib/pull/9552) _(by Vishal Gaikwad, stdlib-bot)_
