@@ -10,9 +10,9 @@
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#5697](https://github.com/stdlib-js/stdlib/issues/5697), [#5771](https://github.com/stdlib-js/stdlib/issues/5771)
+[#5697](https://github.com/stdlib-js/stdlib/issues/5697), [#5771](https://github.com/stdlib-js/stdlib/issues/5771), [#9883](https://github.com/stdlib-js/stdlib/issues/9883)
 
 </section>
 
@@ -24,6 +24,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`bfcc8d1`](https://github.com/stdlib-js/stdlib/commit/bfcc8d119234d1aabb2003ec613f6a62fee0cdf9) - **chore:** fix JavaScript lint errors [(#9888)](https://github.com/stdlib-js/stdlib/pull/9888) _(by Suyash Pathak, Athan Reines)_
 -   [`9f70c31`](https://github.com/stdlib-js/stdlib/commit/9f70c314356bb4f683d135d4af7ce28ec6b8ceb6) - **bench:** refactor to use string interpolation in `buffer/to-json` [(#9580)](https://github.com/stdlib-js/stdlib/pull/9580) _(by Vishal Gaikwad)_
 -   [`3b0e321`](https://github.com/stdlib-js/stdlib/commit/3b0e321d7fe014b56def3bf6a769ac2760ac67eb) - **bench:** refactor to use string interpolation in `buffer/from-buffer` [(#9578)](https://github.com/stdlib-js/stdlib/pull/9578) _(by Vishal Gaikwad)_
 -   [`01e7efb`](https://github.com/stdlib-js/stdlib/commit/01e7efb049f30e3903d29a05b145966a9b75d909) - **bench:** refactor to use string interpolation in `buffer/from-string` [(#9579)](https://github.com/stdlib-js/stdlib/pull/9579) _(by Vishal Gaikwad)_
@@ -49,12 +50,14 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Abdelrahman Samir
+-   Athan Reines
 -   Jalaj Kumar
 -   Philipp Burckhardt
 -   Shubham
+-   Suyash Pathak
 -   Vishal Gaikwad
 
 </section>
